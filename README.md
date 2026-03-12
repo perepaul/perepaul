@@ -1,7 +1,8 @@
-<!-- Header: Typing SVG -->
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Kodes</h1>
 <p align="center">
   <a href="https://github.com/perepaul">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Kodes;Software+Engineer;Full+Stack+Developer" alt="Typing animation showing Kodes' roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=Software+Engineer;Full+Stack+Developer" alt="Typing animation showing Kodes' roles" />
   </a>
 </p>
 
